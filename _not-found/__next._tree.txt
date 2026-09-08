@@ -1,0 +1,2 @@
+:HL["/thiepcuoinhatrai/_next/static/chunks/0x-yw4yre2_ly.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ro4VL-WpELJ3JlXdZ4YAE"}
