@@ -2,7 +2,7 @@ export const wedding = {
   couple: { bride: 'Kim Phụng', groom: 'Đình Chiến' },
   displayDate: '16 · 11 · 2026',
   quote: 'Sau tất cả những cuộc gặp gỡ, điều đẹp nhất là được cùng nhau đi đến cuối hành trình ♡',
-  invitation: 'Đến chung vui và chứng kiến khoảnh khắc hai con chúng tôi nên duyên vợ chồng.',
+  invitation: 'Đến dự buổi tiệc rượu chung vui cùng gia đình chúng tôi.',
   attendanceMessage: 'Chúng mình rất mong sự hiện diện của bạn để cùng chung vui, sẻ chia niềm hạnh phúc và lưu lại những khoảnh khắc đáng nhớ trong ngày cưới.',
   families: {
     groom: { label: 'Nhà trai', father: 'Phan Đình Thắng', mother: 'Lê Thị Tâm', address: "Phường B'lao - Tỉnh Lâm Đồng" },

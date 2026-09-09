@@ -87,7 +87,7 @@ function EventDetails() {
 }
 
 function LocationSection() {
-  return <section className="location-section"><Photo src={wedding.images.location} alt="Không gian địa điểm tổ chức lễ cưới" /><div className="location-shade" /><Reveal className="location-copy"><p className="eyebrow">Địa chỉ dự tiệc</p><h2>{wedding.location.name}</h2><p>{wedding.location.address}</p><a className="outline-button" href={wedding.location.mapUrl} target="_blank" rel="noreferrer" aria-label="Mở chỉ đường trên Google Maps">Chỉ đường ↗</a></Reveal></section>;
+  return <section className="location-section"><Photo src={wedding.images.location} alt="Không gian địa điểm tổ chức lễ cưới" /><div className="location-shade" /><Reveal className="location-copy"><p className="eyebrow">{wedding.location.name}</p><p>{wedding.location.address}</p><a className="outline-button" href={wedding.location.mapUrl} target="_blank" rel="noreferrer" aria-label="Mở chỉ đường trên Google Maps">Chỉ đường ↗</a></Reveal></section>;
 }
 
 function WeddingCalendar() {
