@@ -78,7 +78,7 @@ function FamilySection() {
 }
 
 function InvitationSection({ invitation }: { invitation: string }) {
-  return <section className="invitation-section"><Photo src={wedding.images.couple[1]} alt="Khoảnh khắc cưới của cô dâu chú rể" /><div className="invitation-card"><span className="flourish">❦</span><p className="script-kicker">Thiệp Mời</p><h2>{`Trân trọng kính mời`}</h2><p className="guest-name">{'Quý Khách'}</p><p>{invitation}</p><p className="small-caps">lễ thành hôn</p><strong className="invitation-couple">{wedding.couple.bride} &amp; {wedding.couple.groom}</strong></div></section>;
+  return <section className="invitation-section"><Photo src={wedding.images.couple[1]} alt="Khoảnh khắc cưới của cô dâu chú rể" /><div className="invitation-card"><span className="flourish">❦</span><p className="script-kicker">Thiệp Mời</p><h2>{`Trân trọng kính mời`}</h2><p className="guest-name">{'Quý Khách'}</p><p>{invitation}</p><p className="small-caps">lễ tân hôn</p><strong className="invitation-couple">{wedding.couple.bride} &amp; {wedding.couple.groom}</strong></div></section>;
 }
 
 function EventDetails() {
